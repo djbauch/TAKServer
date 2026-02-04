@@ -1,5 +1,5 @@
 lxml==4.9.2
-protobuf==3.11.3
+protobuf==6.33.5
 pyOpenSSL==23.1.1
 PyYAML==5.1
 requests==2.26
