@@ -8,3 +8,4 @@ websockets
 pyzmq==25.0.2
 boto3==1.18
 
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
